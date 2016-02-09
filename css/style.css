@@ -1,4 +1,4 @@
-body {
+﻿body {
 	font-size:14px;
 	line-height:18px;
 	color:black;
@@ -6,8 +6,8 @@ body {
 	font-family:PTSands Narrow,sans-serif;
 }
 h1 {
-	font-size:30px;
-	line-height:normal;
+	font-size: 30px;
+	line-height: normal;
 	color:black;
 	font-weight:normal;
 	font-family:PTSands Narrow,sans-serif;
@@ -71,12 +71,12 @@ BARBERSHOP-SHOP
  ============================================================================ */
  
 .container {
-	background: magenta;
-}
-.main-content {
 	width: 940px;
 	padding: 0 10px;
 	margin: 0 auto;
+	background: magenta;
+}
+.main-content {
 	background: red;
 }
 .breadcrumbs li {
@@ -142,7 +142,7 @@ BARBERSHOP-ITEM
  ============================================================================ */
  
 .gallery {
-	float;left;
+	float:left;
 	width:460px;
 	background: blue;
 }
